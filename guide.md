@@ -40,18 +40,7 @@ Fill out the sign up form
 ![Sign Up Form](images/signup_form.png)
   
 ### Layout
-
-#### Newsfeed
-![Newsfeed Layout](images/layout.png =800x500)
-
-#### Notifications
-![Notifications Layout](images/layout2.png)
-
-#### Wallet
-![Wallet Layout](images/layout3.png)
-
-#### Channel
-![Channel Layout](images/layout4.png)
+![Layout](images/layout.png =800x500)
 
 ### Posting
 
