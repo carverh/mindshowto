@@ -42,7 +42,7 @@ Fill out the sign up form
 ### Layout
 
 #### Newsfeed
-![Newsfeed Layout](images/layout.png =500x500)
+![Newsfeed Layout](images/layout.png =800x500)
 
 #### Notifications
 ![Notifications Layout](images/layout2.png)
