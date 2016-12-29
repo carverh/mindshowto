@@ -12,11 +12,11 @@
 </head>
 <body>
 <script type="text/javascript">
-  var converter
   $.get("guide.md", function(data) {
-    converter = new showdown.Converter(),
+    var converter = new showdown.Converter(),
     text      = data,
     html      = converter.makeHtml(text);
+    document.write(html)
   });
 </script>
 </body>
