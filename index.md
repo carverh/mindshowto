@@ -1,4 +1,9 @@
 # How to Minds
+## Intro
+### Minds Introduction
+### Censorship
+### History
+### Developers
 ## Getting Started
 ### Signing Up
 ### Posting
