@@ -7,72 +7,16 @@
 <meta name="description" contents="Guide to the Minds, the free speech social network" />
 <meta name="copyright" contents="Copyright 2016 Carver Harrison" />
 <meta name="keywords" contents="minds,free speech,social network,social media,how to,guide,carverh" />
+<script src="https://code.jquery.com/3.1.1/jquery.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.5.4/showdown.min.js" type="text/javascript"></script>
 </head>
 <body>
-<xmp theme="united" style="display:none;">
-# Minds Guide
-
-## Intro
-
-### Minds Introduction
-Minds is a soical network that allows anyone to be heard with out being censored.
-
-### Censorship
-Other social networks like Facebook and Twitter censor unpopular ideas. In late 2016, Facebook anounced that it would be removing or marking what it calls "Fake News". "Fake News" in Facebook's eyes is any news that it doesn't agree with. This doesn't affect the mainstream media however, even though they create fake news all the time.
-
-### History
-Minds was founded by Bill Ottman, John Ottman and Mark Harding in 2012, and launched to the public in June 2015.
-  
-### Developers
-  
-#### Bill Ottman
-Bill Ottman is the CEO and co-founder of Minds.
-
-#### John Ottman
-Bill Ottman is the co-founder of Minds.
-  
-#### Mark Harding
-Mark Harding is the main developer for Minds.
-  
-## Getting Started
-
-### Signing Up
-![Minds URL](images/minds_url.png)
-
-Go to https://www.minds.com
-
-![Sign Up Form](images/signup_form.png)
-
-Fill out the sign up form
-  
-### Navigation
-  
-### Posting
-
-### Engagement
-
-#### Liking
-
-#### Disliking
-
-#### Commenting
-
-#### Reminding
-
-#### Subscribing
-
-## Profile
-
-### Avatar
-
-### Banner
-
-### Bio
-
-### Gender
-
-### Birthdate
-</xmp>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.5.4/showdown.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+  $.get("guide.md", function(data) {
+    var converter = new showdown.Converter(),
+    text      = data,
+    html      = converter.makeHtml(text);
+  });
+</script>
 </body>
 </html>
