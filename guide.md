@@ -1,3 +1,6 @@
+<title>Minds Guide</title>
+<style>* { font-family: sans-serif; font-weight: 100 }</style>
+
 # Minds Guide
 
 ## Intro
