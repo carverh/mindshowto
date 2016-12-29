@@ -28,13 +28,16 @@ Mark Harding is the main developer for Minds.
 ## Getting Started
 
 ### Signing Up
-![Minds URL](images/minds_url.png)
 
+#### Step 1
 Go to https://www.minds.com
 
-![Sign Up Form](images/signup_form.png)
+![Minds URL](images/minds_url.png)
 
+#### Step 2
 Fill out the sign up form
+
+![Sign Up Form](images/signup_form.png)
   
 ### Navigation
   
