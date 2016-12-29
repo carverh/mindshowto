@@ -39,8 +39,20 @@ Fill out the sign up form
 
 ![Sign Up Form](images/signup_form.png)
   
-### Navigation
-  
+### Layout
+
+#### Newsfeed
+![Newsfeed Layout](images/newsfeed_layout.png)
+
+#### Notifications
+![Notifications Layout](images/notifications_layout.png)
+
+#### Wallet
+![Wallet Layout](images/wallet_layout.png)
+
+#### Channel
+![Channel Layout](images/channel_layout.png)
+
 ### Posting
 
 ### Engagement
