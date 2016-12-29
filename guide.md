@@ -42,16 +42,16 @@ Fill out the sign up form
 ### Layout
 
 #### Newsfeed
-![Newsfeed Layout](images/newsfeed_layout.png)
+![Newsfeed Layout](images/layout.png)
 
 #### Notifications
-![Notifications Layout](images/notifications_layout.png)
+![Notifications Layout](images/layout2.png)
 
 #### Wallet
-![Wallet Layout](images/wallet_layout.png)
+![Wallet Layout](images/layout3.png)
 
 #### Channel
-![Channel Layout](images/channel_layout.png)
+![Channel Layout](images/layout4.png)
 
 ### Posting
 
